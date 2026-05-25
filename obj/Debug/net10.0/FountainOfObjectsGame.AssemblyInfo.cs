@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FountainOfObjectsGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2d58cafb76c0e70d1d38eb3c96f1a7a9c30429f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FountainOfObjectsGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FountainOfObjectsGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
