@@ -1,0 +1,14 @@
+/home/aashish/Documents/FountainOfObjectsGame/bin/Debug/net10.0/FountainOfObjectsGame
+/home/aashish/Documents/FountainOfObjectsGame/bin/Debug/net10.0/FountainOfObjectsGame.deps.json
+/home/aashish/Documents/FountainOfObjectsGame/bin/Debug/net10.0/FountainOfObjectsGame.runtimeconfig.json
+/home/aashish/Documents/FountainOfObjectsGame/bin/Debug/net10.0/FountainOfObjectsGame.dll
+/home/aashish/Documents/FountainOfObjectsGame/bin/Debug/net10.0/FountainOfObjectsGame.pdb
+/home/aashish/Documents/FountainOfObjectsGame/obj/Debug/net10.0/FountainOfObjectsGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/aashish/Documents/FountainOfObjectsGame/obj/Debug/net10.0/FountainOfObjectsGame.AssemblyInfoInputs.cache
+/home/aashish/Documents/FountainOfObjectsGame/obj/Debug/net10.0/FountainOfObjectsGame.AssemblyInfo.cs
+/home/aashish/Documents/FountainOfObjectsGame/obj/Debug/net10.0/FountainOfObjectsGame.csproj.CoreCompileInputs.cache
+/home/aashish/Documents/FountainOfObjectsGame/obj/Debug/net10.0/FountainOfObjectsGame.dll
+/home/aashish/Documents/FountainOfObjectsGame/obj/Debug/net10.0/refint/FountainOfObjectsGame.dll
+/home/aashish/Documents/FountainOfObjectsGame/obj/Debug/net10.0/FountainOfObjectsGame.pdb
+/home/aashish/Documents/FountainOfObjectsGame/obj/Debug/net10.0/FountainOfObjectsGame.genruntimeconfig.cache
+/home/aashish/Documents/FountainOfObjectsGame/obj/Debug/net10.0/ref/FountainOfObjectsGame.dll

@@ -1,0 +1,1 @@
+public enum Room { Empty, Entrance, Fountain, Pit, Maelstrom, Amarok }

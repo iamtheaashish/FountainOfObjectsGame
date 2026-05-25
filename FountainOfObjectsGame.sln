@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FountainOfObjectsGame", "FountainOfObjectsGame.csproj", "{7A675517-5F2A-45EF-9D7E-E936ABD7F95B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A675517-5F2A-45EF-9D7E-E936ABD7F95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A675517-5F2A-45EF-9D7E-E936ABD7F95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A675517-5F2A-45EF-9D7E-E936ABD7F95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A675517-5F2A-45EF-9D7E-E936ABD7F95B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
